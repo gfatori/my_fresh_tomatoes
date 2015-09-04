@@ -1,2 +1,1 @@
-# my_fresh_tomatoes
-Project 1 - Fresh Tomatoes
+To run the project clone it and run the file "entertainment_center.py".
