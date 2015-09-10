@@ -6,7 +6,6 @@ This file contains the movie class and its functions.
 
 
 class Movie():
-
     """
     Describes a movie object.
     """
