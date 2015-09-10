@@ -1,1 +1,1 @@
-To run the project clone it and run the file "entertainment_center.py".
+To run the project clone it and run the file "entertainment_center.py" on your command line.

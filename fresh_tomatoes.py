@@ -1,3 +1,8 @@
+#!/usr/bin/env python
+"""
+This file contains the webpage template of the
+movie trailer project and has all of its functionalities
+"""
 import webbrowser
 import os
 import re
